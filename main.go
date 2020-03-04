@@ -1,7 +1,8 @@
-package awesomeProject
+package main
+
 import (
-"fmt"
-"net/http"
+	"fmt"
+	"net/http"
 )
 
 // This will be the entry point for _GAE_, we'e using GO default http package to pass the request to a handler func
